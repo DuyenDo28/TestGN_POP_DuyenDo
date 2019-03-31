@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22301" started-at="2019-03-31T10:17:26Z" finished-at="2019-03-31T10:17:49Z">
+    <groups>
+    </groups>
+    <test name="Login guru on Chrome" duration-ms="22301" started-at="2019-03-31T10:17:26Z" finished-at="2019-03-31T10:17:49Z">
+      <class name="com.bankguru.testcase.NewCustomerScript">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="beforeClass" is-config="true" duration-ms="17022" started-at="2019-03-31T17:17:26Z" finished-at="2019-03-31T17:17:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.45]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://demo.guru99.com/v4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="beforeMethod" is-config="true" duration-ms="822" started-at="2019-03-31T17:17:43Z" finished-at="2019-03-31T17:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_CustomerCannotBlank_01()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="TC_CustomerCannotBlank_01" duration-ms="345" started-at="2019-03-31T17:17:44Z" finished-at="2019-03-31T17:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_CustomerCannotBlank_01 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="beforeMethod" is-config="true" duration-ms="670" started-at="2019-03-31T17:17:45Z" finished-at="2019-03-31T17:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_DateFieldCannotBlank_02()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="TC_DateFieldCannotBlank_02" duration-ms="261" started-at="2019-03-31T17:17:45Z" finished-at="2019-03-31T17:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_DateFieldCannotBlank_02 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="beforeMethod" is-config="true" duration-ms="603" started-at="2019-03-31T17:17:46Z" finished-at="2019-03-31T17:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_NameCannotFirstSpace_05()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="TC_NameCannotFirstSpace_05" duration-ms="222" started-at="2019-03-31T17:17:46Z" finished-at="2019-03-31T17:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_NameCannotFirstSpace_05 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="beforeMethod" is-config="true" duration-ms="663" started-at="2019-03-31T17:17:46Z" finished-at="2019-03-31T17:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_NameCannotNumberic_03()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="TC_NameCannotNumberic_03" duration-ms="392" started-at="2019-03-31T17:17:47Z" finished-at="2019-03-31T17:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_NameCannotNumberic_03 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="beforeMethod" is-config="true" duration-ms="869" started-at="2019-03-31T17:17:47Z" finished-at="2019-03-31T17:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_NameCannotSpecialText_04()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="TC_NameCannotSpecialText_04" duration-ms="410" started-at="2019-03-31T17:17:48Z" finished-at="2019-03-31T17:17:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_NameCannotSpecialText_04 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.bankguru.testcase.NewCustomerScript@58651fd0]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-03-31T17:17:49Z" finished-at="2019-03-31T17:17:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.bankguru.testcase.NewCustomerScript -->
+    </test> <!-- Login guru on Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
